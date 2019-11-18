@@ -501,6 +501,8 @@ def WildCard():
             WildCardOptions(["2","4"])
 ```
 
+### Main function unit
+
 * **Next unit is the main function of this application.** 
 * This function contains all modules of this application \(Initiation, task 1, task 2, task 3, wild card\) and some prompt message. It process programs step by step, and once finish a task, ask user whether to continue. 
 
@@ -529,6 +531,8 @@ def main():
     exit()
 
 ```
+
+### Execution unit
 
 * **The last but must unit, run the main function!!!!!!**
 
