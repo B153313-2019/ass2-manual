@@ -4,7 +4,7 @@ description: Manual for normal operators
 
 # Manual - Original User Version
 
-* **This application is user - frendly.** 
+* **This application is user - frendly.  Follow the instructions in this manual and you will quickly learn how to use this app.**
 * **Firstly, you need enter "python3 BPSMassignment2.py" in the server terminal.**
 
 ```text
@@ -163,7 +163,7 @@ There are 3 extra functions in this application.
 
 1.pepwindowall:Draw Kyte-Doolittle hydropathy plot for a protein alignment
 
-2.pscan:Scan protein sequence(s) with fingerprints from the PRINTS database
+2.charge:Draw a protein charge plot
 
 3.tmap:Predict and plot transmembrane segments in protein sequences
 
